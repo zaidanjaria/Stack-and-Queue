@@ -1,2 +1,2 @@
 # stack
-stack data structure code in C
+stack And Queue data structure code in C
